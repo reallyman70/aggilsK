@@ -1,4 +1,4 @@
-package net.oyvey.module.modules.combat;
+package me.alpha432.oyvey.features.modules.combat;
 
 import net.minecraft.block.Blocks;
 import net.minecraft.entity.decoration.EndCrystalEntity;
@@ -8,12 +8,6 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.Box;
 import net.minecraft.util.math.Vec3d;
 import net.minecraft.world.RaycastContext;
-import net.skliggahack.event.events.PlayerTickListener;
-import net.skliggahack.module.Category;
-import net.skliggahack.module.Module;
-import net.skliggahack.module.setting.BooleanSetting;
-import net.skliggahack.module.setting.DecimalSetting;
-import net.skliggahack.util.*;
 
 import java.util.ArrayList;
 import java.util.List;
